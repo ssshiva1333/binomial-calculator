@@ -1,2 +1,2 @@
 # Binomial Calculator
-it is written by using  Python
+It is written by using  Python
